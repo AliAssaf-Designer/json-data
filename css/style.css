@@ -41,3 +41,9 @@ body{
     font-style: italic;
     font-size: 14px;
 }
+
+@media (max-width: 768px) {
+    #zar{
+        margin-left: 120px;
+    }
+}
