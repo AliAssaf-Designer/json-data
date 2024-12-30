@@ -47,7 +47,8 @@ body{
         margin: 0 0;
     }
     #zar{
-        margin-left: 120px;
+        width: 35%;
+        margin-left: 90px;
         font-size: 18px;
     }
 }
