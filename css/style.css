@@ -43,6 +43,9 @@ body{
 }
 
 @media (max-width: 768px) {
+    .container{
+        margin: 0 0;
+    }
     #zar{
         margin-left: 120px;
     }
